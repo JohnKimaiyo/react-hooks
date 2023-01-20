@@ -18,6 +18,7 @@ import Reset6 from "./previousstate/Reset6";
 import Reset7 from "./previousstate/Reset7";
 import Reset8 from "./previousstate/Reset8";
 import Reset9 from "./previousstate/Reset9";
+import Reset10 from "./previousstate/Reset10";
 function App() {
   return (
     <div className="App">
@@ -37,9 +38,10 @@ function App() {
       <Reset4 />
       <Reset5 />
       <Reset6 />
-      <Reset7/>
-      <Reset8/>
-      <Reset9/>
+      <Reset7 />
+      <Reset8 />
+      <Reset9 />
+      <Reset10 />
     </div>
   );
 }
