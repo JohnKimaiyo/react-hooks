@@ -15,6 +15,7 @@ import Count9 from "./usestate/Count9";
 import Reset4 from "./previousstate/Reset4";
 import Reset5 from "./previousstate/Reset5";
 import Reset6 from "./previousstate/Reset6";
+import Reset7 from "./previousstate/Reset7";
 function App() {
   return (
     <div className="App">
@@ -32,8 +33,9 @@ function App() {
       <Reset2 />
       <Reset3 />
       <Reset4 />
-      <Reset5/>
-      <Reset6/>
+      <Reset5 />
+      <Reset6 />
+      <Reset7/>
     </div>
   );
 }
