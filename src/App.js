@@ -1,5 +1,6 @@
 import "./App.css";
 import Reset1 from "./previousstate/Reset1";
+import Reset2 from "./previousstate/Reset2";
 import Count1 from "./usestate/Count1";
 import Count10 from "./usestate/Count10";
 import Count2 from "./usestate/Count2";
@@ -24,6 +25,7 @@ function App() {
       <Count9 />
       <Count10 />
       <Reset1/>
+      <Reset2/>
     </div>
   );
 }
