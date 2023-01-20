@@ -7,6 +7,7 @@ import Count5 from "./usestate/Count5";
 import Count6 from "./usestate/Count6";
 import Count7 from "./usestate/Count7";
 import Count8 from "./usestate/Count8";
+import Count9 from "./usestate/Count9";
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ function App() {
       <Count6/>
       <Count7/>
       <Count8/>
+      <Count9/>
     </div>
   );
 }
