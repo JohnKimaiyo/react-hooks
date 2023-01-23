@@ -19,6 +19,7 @@ import Reset7 from "./previousstate/Reset7";
 import Reset8 from "./previousstate/Reset8";
 import Reset9 from "./previousstate/Reset9";
 import Reset10 from "./previousstate/Reset10";
+import Array1 from "./usestate array/Array1";
 
 import Object1 from "./object usestate hook/Object1";
 function App() {
@@ -45,6 +46,8 @@ function App() {
       <Reset9 />
       <Reset10 />
       <Object1/>
+      <Array1/>
+      <Count1/>
     </div>
   );
 }
