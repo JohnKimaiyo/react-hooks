@@ -19,6 +19,8 @@ import Reset7 from "./previousstate/Reset7";
 import Reset8 from "./previousstate/Reset8";
 import Reset9 from "./previousstate/Reset9";
 import Reset10 from "./previousstate/Reset10";
+
+import Object1 from "./object usestate hook/Object1";
 function App() {
   return (
     <div className="App">
@@ -42,6 +44,7 @@ function App() {
       <Reset8 />
       <Reset9 />
       <Reset10 />
+      <Object1/>
     </div>
   );
 }
